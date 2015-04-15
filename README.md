@@ -1,5 +1,4 @@
 # PowerShell - Create Object From Function Sample
----
 
 Small sample project , how to create custom object from PowerShell function in "class like" style.
 
@@ -18,9 +17,7 @@ $yourVar = getMeMyObject -propertyName 'qqqq'
 
 I strongly typed variable -propertyName so it has to be string, but it's just for this demo, fee free to modify this snippet as you like/need.
 
-### The secret (why at runtime we can access the input variable -propertyName)
-
-Is quite simple, I am calling 
+There is only one small thing worth notice, the "secret" why at runtime we can access the input variable -propertyName is quite simple. I am calling 
 
 ```powershell
 .GetNewClosure()
