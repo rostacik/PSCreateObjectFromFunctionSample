@@ -34,4 +34,8 @@ would be empty but code will not fail which is quite tricky I would say. You can
 More on this method here :
 [http://blogs.msdn.com/b/powershell/archive/2009/03/27/get-closure-with-getnewclosure.aspx](http://blogs.msdn.com/b/powershell/archive/2009/03/27/get-closure-with-getnewclosure.aspx "GetNewClosure").
 
+## Two possible versions of calling
+
+You can use two methods of calling the code. Either use dedicated .ps1 file with function in it, or inline copy a script block that creates variable you can call, choice is yours.
+
 Enjoy.
