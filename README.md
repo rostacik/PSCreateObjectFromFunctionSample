@@ -32,7 +32,7 @@ $propertyName
 would be empty but code will not fail which is quite tricky I would say. You can try for your self :)
 
 More on this method here :
-[http://blogs.msdn.com/b/powershell/archive/2009/03/27/get-closure-with-getnewclosure.aspx](http://blogs.msdn.com/b/powershell/archive/2009/03/27/get-closure-with-getnewclosure.aspx "GetNewClosure").
+[http://blogs.msdn.com/b/powershell/archive/2009/03/27/get-closure-with-getnewclosure.aspx](http://blogs.msdn.com/b/powershell/archive/2009/03/27/get-closure-with-getnewclosure.aspx "GetNewClosure") and here [http://blogs.technet.com/b/heyscriptingguy/archive/2010/07/10/hey-scripting-guy-weekend-scripter-getting-closure-with-the-getnewclosure-method.aspx](http://blogs.technet.com/b/heyscriptingguy/archive/2010/07/10/hey-scripting-guy-weekend-scripter-getting-closure-with-the-getnewclosure-method.aspx).
 
 Other great article can be found here :
 [http://www.padisetty.com/2014/05/all-about-powershell-scriptblock.html](http://www.padisetty.com/2014/05/all-about-powershell-scriptblock.html)
